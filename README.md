@@ -3,8 +3,7 @@
 Database administrator and data engineer. Saint Petersburg, Russia.
 
 Thirty years in data infrastructure: banking, federal retail, lottery and gaming
-platforms, systems integration. Most recently - 32 MS SQL Server instances and
-roughly 300 TB of data in a digital bank.
+platforms, systems integration.
 
 Now running [WARP.D](https://warpd.ru) - a practice doing data engineering
 and managed DBA work.
