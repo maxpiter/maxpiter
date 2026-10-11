@@ -24,6 +24,12 @@ comes out of incidents rather than release notes.
 
 ### Repositories
 
+- [iceberg-lab](https://github.com/maxpiter/iceberg-lab) -
+  a one-command Docker stand for learning Apache Iceberg together with access control:
+  Trino as the single entry point, Lakekeeper catalog, OpenFGA permissions checked
+  through OPA, Keycloak SSO, RustFS as S3. Step-by-step chapters on DBeaver login,
+  granting access, snapshots and time travel, table maintenance (docs in Russian)
+
 - [ssrs-pbirs-grafana-dashboard](https://github.com/maxpiter/ssrs-pbirs-grafana-dashboard) -
   Grafana dashboards for SQL Server Reporting Services and Power BI Report Server:
   failed subscriptions with error traces, slow reports, background `.pbix` activity
